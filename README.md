@@ -1,3 +1,3 @@
-# Uni-Kotlin-App-Project
+# Discount-App-Project
 
-This is a group project we made at uni where we created a discount app that gives customers coupons to use at retailer & a price comparison site to compare which retailers have the best deal. 
+A discount app that gives customers coupons to use at retailer & a price comparison site to compare which retailers have the best deal. 
